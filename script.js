@@ -1,10 +1,10 @@
 console.log('Заработало');
 let phrases = [
-  { text: 'полежать на диване', image: '../images/sofa.png' },
-  { text: 'поиграть в компьютер', image: '../images/computer.png' },
-  { text: 'пойти поспать', image: '../images/bed.png' },
-  { text: 'посмотреть Ютуб', image: '../images/youtube.png' },
-  { text: 'полистать Тик Ток', image: '../images/tiktok.png' },
+  { text: 'полежать на диване', image: './images/sofa.png' },
+  { text: 'поиграть в компьютер', image: './images/computer.png' },
+  { text: 'пойти поспать', image: './images/bed.png' },
+  { text: 'посмотреть Ютуб', image: './images/youtube.png' },
+  { text: 'полистать Тик Ток', image: './images/tiktok.png' },
   { text: 'прочитать про зарплаты в других странах и задуматься о переезде', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
   { text: 'почитать последние новости', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
   { text: 'послушать песни', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
